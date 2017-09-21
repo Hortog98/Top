@@ -26,7 +26,7 @@ int main()
 {
 	SetConsoleCP (1251);
 	SetConsoleOutputCP (1251);
-	time_t start1, end1, forstart, forend;//גנולÿ הכÿ עאילונמג
+	time_t start1, end1, forstart, forend;//גנולÿ הכÿ עאילונמג ûûûû
 	int counts = 0, countans = 0, i = 0, anserr = 0, lvl;
 	char c;
 	point.X = 0;
